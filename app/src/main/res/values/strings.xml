@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoShowSMS</string>
+    <string name="RetrieveSMS">Retrieve SMS</string>
+</resources>
